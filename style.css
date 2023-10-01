@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /*estilo do header*/
@@ -41,12 +42,25 @@ header .links-menu ul li a:hover {
     color: #8D1B3D;
 } 
 
+/*estilo do logo-fifa-word-cup*/
+.logo-fifa-word-cup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner .logo-fifa-word-cup img {
+    width: 70%;
+    height: 70%;
+}
+
+
 /*estilo do banner */
 .banner{
-    background-image: url(/imagem/wallpaper.png);
-    height: 580px;
+    /*background-image: url(/imagem/wallpaper.png);*/
+    background: linear-gradient(to bottom, rgba(141, 27, 61, 1), rgba(141,0,0,0.5)), url('/imagem/wallpaper.png');
+    height: 500px;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
 }
 
 .banner-flex {
@@ -66,6 +80,10 @@ header .links-menu ul li a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.grupos:hover{
+    color: #8D1B3D;
+    cursor: pointer;
 }
 
 /*Estilo dos cards*/
@@ -112,6 +130,7 @@ header .links-menu ul li a:hover {
 .image-container .caption {
     margin-left: 30px;
     cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
 .image-container .caption:hover {
@@ -121,6 +140,7 @@ header .links-menu ul li a:hover {
 /*estilo do icone de navegação para direita e esquerda*/
 
 .icone-navegacao {
+    margin-top: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -132,8 +152,36 @@ header .links-menu ul li a:hover {
     height: 50px;
     cursor: pointer;
 }
-body {background-color: aqua;}
 
-/*estilo da */
 
+/*estilo da frase proximos-jogos */
+
+.proximos-jogos{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.proximos-jogos:hover{
+    color: #8D1B3D;
+    cursor: pointer;
+}
+
+/*estilo do container-cards-proximo-jogos*/
+.container-cards-proximo-jogos{
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 3px;
+}
+
+.container-cards-proximo-jogos .cards-proximo-jogos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    border: 1px solid black;
+}
 
