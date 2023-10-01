@@ -10,7 +10,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 70%;
+    width: 80%;
 }
 
 .container-cabeçalho {
@@ -42,9 +42,6 @@ header .links-menu ul li a:hover {
 } 
 
 /*estilo do banner */
- .conteudo-principal{
-    background-color: #8D1B3D;
- }
 .banner{
     background-image: url(/imagem/wallpaper.png);
     height: 580px;
@@ -61,5 +58,52 @@ header .links-menu ul li a:hover {
 .banner .logo-fifa-word-cup {
     width: 350px;
     height: 420px;
+}
 
+/*estilo do <h1>GRUPOS</h1>*/
+.grupos {
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*Estilo dos cards*/
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:row;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.cards-times {
+    border: 1px solid black;
+    width: 350px;
+    height: 410px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #F4F4F4;
+    text-align: center;
+    flex-direction: column;
+}
+
+.cards-times .icones-cards {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
+    text-align: center;   
+}
+
+.cards-times .icones-cards a {
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+
+}
+
+.cards-times .icones-cards img {
+    max-width: 100%;
 }
