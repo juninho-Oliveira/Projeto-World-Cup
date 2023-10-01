@@ -170,18 +170,80 @@ header .links-menu ul li a:hover {
 
 /*estilo do container-cards-proximo-jogos*/
 .container-cards-proximo-jogos{
-    border: 1px solid red;
     display: flex;
     align-items: center;
-    justify-content: space-around;
-    padding: 3px;
+    flex-direction: column;
+    justify-content: center;
+    padding: 4px;
+    gap: 20px;
+    
 }
 
 .container-cards-proximo-jogos .cards-proximo-jogos {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     flex-direction: row;
-    border: 1px solid black;
+    border: 2px solid #ccc;
+    background-color: #F4F4F4;
+    border-radius: 6px;
+    padding: 5px;
+    width: 86%;
 }
+.cards-proximo-jogos {
+    display: flex;
+    justify-content: center;
+}
+
+.cards-proximo-jogos div {
+    display: flex;
+    align-items: center;
+}
+.cards-proximo-jogos IMG {
+    width: 80px;
+    height: 60px;
+    width: 80px;
+}
+
+
+.hora-do-jogo {
+    margin-right: 50px;
+    font-size: 18px;
+    color: #8D1B3D;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+}
+
+.lado-direito{
+    margin-left: 100px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.lado-esqeurdo{
+    margin-right: 1px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.ver-todos {
+    cursor: pointer;
+    color: #8D1B3D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 298px;
+    height: 54px;
+    border-radius: 5px;
+    background-color: rgba(255, 242, 246, 1);
+}
+
+.ver-todos h3:hover {
+    color: black;
+}
+
+
+
+
 
