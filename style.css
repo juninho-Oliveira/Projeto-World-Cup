@@ -5,6 +5,11 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* realizar scroll suave na minha pagina html */
+html{
+    scroll-behavior: smooth;
+}
+
 /* configuração genericas que vai fazer conteudo  */
 .container-grid {
     width: 90%;
