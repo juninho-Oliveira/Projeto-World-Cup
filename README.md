@@ -24,4 +24,4 @@ Nomenclaturas claras;
 repositório;
 Figma;
 Trello com o gerenciamento do projeto e as tarefas atribuídas para cada integrante;
- 
+
