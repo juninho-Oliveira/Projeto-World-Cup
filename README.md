@@ -34,7 +34,6 @@ Trabalhar em conjunto;
 Visualizar o figma para entender onde encaixar cada elemento e tags semânticas;
 Trello com o gerenciamento do projeto e as tarefas atribuídas para cada integrante;
 O projeto foi elaborado em linguagens HTML e CSS;
-A divisão das tarefas foram distribuidas pelo Trello atraves do link;
 
 
 O projeto será postado individualmente no Google sala de aula para avaliação do docente responsável;
