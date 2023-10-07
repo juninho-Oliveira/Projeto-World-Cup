@@ -17,7 +17,6 @@ Entender o escopo do projet
 <a href="https://classroom.google.com/c/NTg5MTE3OTIxNjQ4/m/NTkwMjIxNjMwOTU4/details">Figman</a>
 
 
-
 Os alunos terão até o dia 07/10 (Sábado que vem)  para realizar a entrega final do projeto. O que será levado em conta ?
 Código limpo;
 Nomenclaturas claras;
