@@ -97,6 +97,11 @@ header .links-menu ul li a:hover {
 }
 
 /*Estilo dos cards*/
+
+.grupo-a {
+    display: none;
+}
+
 .container-global-cards {
     display: flex;
     justify-content: center;
@@ -301,5 +306,67 @@ footer {
     color: black;
 }
 
+/*responsivo*/
+
+@media (max-width: 890px) {
+    /*estilo do banner */
+    .banner{
+        background: linear-gradient(to bottom, rgba(141, 27, 61, 1), rgba(141,0,0,0.5)), url('./imagem/wallpaper.png');
+        width: 100%;
+        height: 300px;
+        background-repeat: no-repeat;
+        background-size:cover;
+    }
+
+    .banner .logo-fifa-word-cup img {
+        width: 40%;
+        height: 40%;
+    }
+
+    .cards {
+        display: none;
+    }
+
+    .grupo-a {
+        display: block;
+        margin-top: 30px;
+        width: 400px;
+        height: 428px;
+        padding: 10px;
+        border: 2px solid #ccc;
+        margin-bottom: 10px;
+        background-color: #F4F4F4;
+        border-radius: 8px;
+      }
+
+      .grupos h1{
+        color: black;
+      }
+
+      .icone-navegacao {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .container-cards-proximo-jogos{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .container-cards-proximo-jogos .cards-proximo-jogos img {
+        display: none;
+      }
+
+      .container-cards-proximo-jogos .cards-proximo-jogos div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid red;
+        width: 150px;
+      }
+
+
+}
 
 
