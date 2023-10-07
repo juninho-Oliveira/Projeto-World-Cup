@@ -9,7 +9,7 @@ Entender o escopo do projet
 
 <a href="https://github.com/ricardoeandrade" target="_blank">-Ricardo</a>
 
-<a href="#" target="_blank">-Leticia</a>
+<a href="https://github.com/leticiasilvas" target="_blank">-Leticia</a>
 
 <a href="#" target="_blank">-David</a>
 
