@@ -5,13 +5,13 @@ Entender o escopo do projeto
 # Grupo 02
 <a href="https://github.com/juninho-oliveira">-Damião</a>
 
-<a  href="https.//github.com/ricardoeandrade">-Ricardo</a>
+<a href="https://github.com/ricardoeandrade">-Ricardo</a>
 
-<a  href="https://github.com/leticiasilvas">-Leticia</a>
+<a href="https://github.com/leticiasilvas">-Leticia</a>
 
-<a  href="#" target="_blank">-David</a>
+<a href="#" target="_blank">-David</a>
 
-<a  href="https://classroom.google.com/c/NTg5MTE30TIxNjQ4/m?NTKwMjxNjMwOTU4/details">-Figman</a>
+<a href="https://www.figma.com/file/9q9FV9jJfAPJv2uAuJPi8a/Projeto_Ford?type=design&node-id=0-1&mode=design&t=MUaFMgIhDow2YAeV-0">-Figman</a>
 
 Os alunos terão até o dia 07/10 (Sabádo que vem) para realizar a entrega final do projeto.
 
