@@ -3,7 +3,7 @@
 
 Entender o escopo do projet
 
-##Grupo 02
+## Grupo 02
 
 <a href="https://github.com/juninho-Oliveira">-Damião</a>
 
