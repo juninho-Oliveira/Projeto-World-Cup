@@ -3,15 +3,15 @@
 Entender o escopo do projeto
 
 # Grupo 02
-<a href="https://github.com/juninho-oliveira">-Damião</a>">
+<a href="https://github.com/juninho-oliveira">-Damião</a>
 
-<a href="https.//github.com/ricardoeandrade" target="_blank">-Ricardo</a>
+<a  href="https.//github.com/ricardoeandrade">-Ricardo</a>
 
-<a heref="https://github.com/leticiasilvas" target="_blank">-Leticia</a>
+<a  href="https://github.com/leticiasilvas">-Leticia</a>
 
-<a heref="#" target="_blank">-David</a>
+<a  href="#" target="_blank">-David</a>
 
-<a heref="https://classroom.google.com/c/NTg5MTE30TIxNjQ4/m?NTKwMjxNjMwOTU4/details">-Figman</a>
+<a  href="https://classroom.google.com/c/NTg5MTE30TIxNjQ4/m?NTKwMjxNjMwOTU4/details">-Figman</a>
 
 Os alunos terão até o dia 07/10 (Sabádo que vem) para realizar a entrega final do projeto.
 
@@ -43,23 +43,3 @@ O Projeto Word Cup esta em carater de base exposto no Figma atraves do link;
 <a heref="https://www.figma.com/file/9q9FV9jJfAPJv2uAuJPi8a/Projeto_Ford?type=design&node-id=0-1&mode=design"></a>
 
 Onde os integrantes do grupo vão se basear para a execução do projeto, ultilizando a ferramenta VScode;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
